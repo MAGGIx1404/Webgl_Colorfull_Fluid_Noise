@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+canvas{
+    display: block;
+}
